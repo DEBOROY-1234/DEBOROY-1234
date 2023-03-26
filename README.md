@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deboroy-1234&label=Profile%20views&color=0e75b6&style=flat" alt="deboroy-1234" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deboroy-1234" alt="deboroy-1234" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deboroy-1234" alt="deboroy-1234" /></a> </p>
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
