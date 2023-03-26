@@ -1,4 +1,4 @@
-[![Masterhead](https://pixner.net/cortaly/main/assets/images/blog/blog1.jpg)]
+![Masterhead](https://pixner.net/cortaly/main/assets/images/blog/blog1.jpg)
 <h1 align="center">Hi 👋, I'm DEBOJYOTI ROY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
