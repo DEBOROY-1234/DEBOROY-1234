@@ -4,7 +4,7 @@
 
 <img align="center" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deboroy-1234&label=Profile%20views&color=0e75b6&style=flat" alt="deboroy-1234" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=deboroy-1234&label=Profile%20views&color=0e75b6&style=flat" alt="deboroy-1234" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deboroy-1234" alt="deboroy-1234" /></a> </p>
 
