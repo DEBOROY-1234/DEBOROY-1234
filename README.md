@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Frontend Developer and a Coding Enthusiast from India</h3>
 
 <img align="left" alt="coding" width="250" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="float" alt="coding" width="250" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
+<img align="center" alt="coding" width="250" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 
