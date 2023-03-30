@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm DEBOJYOTI ROY</h1>
 <h3 align="center">A passionate Frontend Developer and a Coding Enthusiast from India</h3>
 
-<img align="left" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
+<img align="left" alt="coding" width="400" height="250" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" height="250" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deboroy-1234&label=Profile%20views&color=0e75b6&style=flat" alt="deboroy-1234" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 💬 Ask me about **CODING,WEB DEVELOPMENT**
+- 💬 Ask me about **CODING,FRONTEND DEVELOPMENT**
 
 - 📫 How to reach me **deboroy2002@gmail.com**
 
