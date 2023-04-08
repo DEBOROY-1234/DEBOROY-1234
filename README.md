@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 💬 Ask me about **CODING,WEB DEVELOPMENT**
+- 💬 Ask me about **CODING,WEB DEVELOPMENT,WEB DESIGN**
 
 - 📫 How to reach me **deboroy2002@gmail.com**
 
