@@ -1,4 +1,4 @@
-![Masterhead](https://i.pinimg.com/originals/64/72/9b/64729be2a878f8a656b12cac52593124.jpg)
+![Masterhead](https://codeagepk.com/wp-content/uploads/2019/04/home-gif.gif)
 <h1 align="center">Hi 👋, I'm DEBOJYOTI ROY</h1>
 <h3 align="center">A passionate Frontend Developer and a Coding Enthusiast from India</h3>
 
