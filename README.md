@@ -1,6 +1,6 @@
 ![Masterhead](https://codeagepk.com/wp-content/uploads/2019/04/home-gif.gif)
 <h1 align="center">Here!! 👋, I'm DEBOJYOTI ROY</h1>
-<h3 align="center">A passionate Frontend Developer and a Data Analysis Enthusiast from India</h3>
+<h3 align="center">A passionate Data Analyst and Full_Stack Web Developer from India</h3>
 
 <img align="left" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/f8/41/ac/f841ac2befaedda240c55a06b23b33ec.gif">
@@ -11,11 +11,11 @@
 
 - 🌱 I’m currently learning **DATA SCIENCE**
 
-- 💬 Ask me about **DATA ANALYSIS , WEB DESIGN**
+- 💬 Ask me about **DATA ANALYSIS , WEB DEV**
 
 - 📫 How to reach me **deboroy2002@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I am Curious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
